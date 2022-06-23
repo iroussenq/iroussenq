@@ -1,6 +1,6 @@
 # Olá! 👋
 <p>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://pbs.twimg.com/media/FV6HEnFWQAEFXL1?format=jpg&name=large>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://pbs.twimg.com/media/EwDMRYRXYAYx1We?format=jpg&name=small>
 <p>
 <p>
 Me chamo Igor e sou um jovem desenvolvedor na Trier Sistemas; sobretudo,amante e estudante de tecnologias de programção,sempre procurando aprender mais.
