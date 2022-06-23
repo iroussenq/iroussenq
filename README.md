@@ -1,5 +1,8 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-### Hi there 👋
+### Olá! 👋
+Me chamo Igor e sou um jovem desenvolvedor na Trier Sistemas; sobretudo,amante e estudante de tecnologias de programção,sempre procurando aprender mais.
+
+### teste!
+
 
 <!--
 **iroussenq/iroussenq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
