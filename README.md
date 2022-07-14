@@ -7,7 +7,7 @@ Me chamo Igor e sou um jovem desenvolvedor na Trier Sistemas; sobretudo,amante e
 <p>
  
   Algumas informações sobre mim:
-- 🔭 Atualmente trabalhando com alguns projetos voltados ao aprendizado frontend.
+- 🔭 Atualmente estudando Ciencia da Computação
 - 🌱 Atualmente aprendendo o uso de SQL (Postgresql) em Spring 
 - 📫 Entre em contato: iroussenq22@gmail.com
 
